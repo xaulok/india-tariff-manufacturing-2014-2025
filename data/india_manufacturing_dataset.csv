@@ -1,0 +1,12 @@
+year,mfn_tariff,mfg_gva_share,gdp_growth,inr_usd,covid,pli_disbursement,fdi_mfg,notes
+2014,13.0,16.8,7.4,61.0,0,0,8200,"Make in India launched Sept 2014"
+2015,13.2,16.6,8.0,65.5,0,0,9100,"Phased Mfg Programme initiated"
+2016,13.4,16.2,8.3,67.2,0,0,9500,"GST preparation year"
+2017,13.8,16.1,6.8,65.1,0,0,10200,"GST rollout July 2017; electronics tariff hike"
+2018,14.3,16.4,6.5,68.4,0,0,12400,"PMP tariff escalation on mobiles"
+2019,15.2,15.5,5.0,70.9,0,0,11800,"Sharp MFN hike; slowdown begins"
+2020,15.5,16.9,-6.6,74.1,1,0,6500,"COVID lockdown; AB announced May 2020"
+2021,15.8,18.5,8.9,73.9,0,2100,7200,"AB PLI scheme operationalised; base effect recovery"
+2022,15.1,16.9,7.0,78.6,0,8400,9800,"PLI disbursements ramp up"
+2023,17.0,17.3,8.2,82.6,0,12600,11200,"WTO reports simple avg MFN at 17%"
+2024,16.8,17.2,6.4,83.7,0,16100,12800,"PLI cumulative investment crosses Rs 2 lakh cr"
