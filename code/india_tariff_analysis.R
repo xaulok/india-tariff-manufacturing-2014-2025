@@ -1,17 +1,6 @@
 # ============================================================
 #  SECTION 5.4 — REGRESSION RESULTS
 #  From Make in India to Atmanirbhar Bharat
-#  Author: [Your Name] | CUAP Economics | 2027
-# ============================================================
-#
-#  HOW TO RUN:
-#  1. Open RStudio
-#  2. Set working directory to the folder containing this file
-#     Session > Set Working Directory > To Source File Location
-#  3. Click "Source" or press Ctrl+Shift+Enter
-#
-# ============================================================
-
 
 # ── STEP 1: LOAD PACKAGES ───────────────────────────────────
 # These are all base R — no installation needed
